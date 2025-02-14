@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+qdrant-client
+langchain
+langchain-google-genai
+langchain-community
